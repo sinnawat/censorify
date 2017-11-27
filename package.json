@@ -1,12 +1,18 @@
 {
     "author": "Sinnawat Vorasitthipat",
-    "name": "censorify",
+    "name": "sinnawat-censorify",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
-    "dependencies": {
-        
-    }, 
+    "dependencies": {}, 
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sinnawat/censorify.git"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
     "engines": {
         "node" : "*"
     }
